@@ -15,7 +15,7 @@ http:
         Host: {{Hostname}}
 
     payloads:
-      pluginSlug: helpers/wordlists/wordpress-plugins.txt
+      pluginSlug: /home/runner/work/extractor/extractor/Recon/plugins.txt
 
     matchers-condition: and
     matchers:
